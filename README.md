@@ -4,6 +4,16 @@ Welcome to my GitHub portfolio! Here you'll find projects that showcase my skill
 
 ---
 
+## 🎓 **Education**
+
+- **Southern New Hampshire University**  
+  Bachelor of Science in Computer Science  
+  **Start Date:** October 24, 2022  
+  **Expected Graduation:** April 1, 2025  
+  Focused on Android development, data structures, algorithms, and software engineering.
+
+---
+
 ## 🛠️ **Skills and Technologies**
 
 - **Languages:** Java, Kotlin, Python, JavaScript
@@ -24,11 +34,11 @@ A baby tracking app for parents to log feedings, diaper changes, and medicine, w
 
 ---
 
-### [Subscription Finder](https://github.com/elopez92/subscription-finder)
-An Android app to track recurring subscriptions and help users manage their expenses.
+### Subscription Finder (In Progress)
+An Android app to help users track recurring subscriptions and manage their expenses.
 
 - **Tech Stack:** Kotlin, Hilt, Jetpack Compose
-- **Features:** Subscription categorization, analytics, and expense management
+- **Planned Features:** Subscription categorization, analytics, and reminders
 
 ---
 
@@ -62,7 +72,8 @@ These repositories showcase a mix of theoretical knowledge and practical applica
 ---
 
 ## 🌱 **What I'm Working On**
-- Building an inventory management app for Android.
+- Building a Minecraft-like game in Java using LWJGL and JOML for graphics and physics.
+- Developing the Subscription Finder app to track recurring expenses.
 - Expanding my expertise in React Native for cross-platform mobile app development.
 
 ---
