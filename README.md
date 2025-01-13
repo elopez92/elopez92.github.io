@@ -80,7 +80,7 @@ These repositories showcase a mix of theoretical knowledge and practical applica
 
 ## 📬 **Connect with Me**
 - **Email:** [elopez2192@gmail.com](mailto:elopez2192@gmail.com)
-- **LinkedIn:** [linkedin.com/in/eduardo-lopez1992]([https://linkedin.com/in/elopez2192](https://www.linkedin.com/in/eduardo-lopez1992/))
+- **LinkedIn:** [https://linkedin.com/in/elopez2192](https://www.linkedin.com/in/eduardo-lopez1992/))
 - **GitHub:** [github.com/elopez92](https://github.com/elopez92)
 
 ---
