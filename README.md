@@ -1,4 +1,4 @@
-# Eduardo Lopez | Portfolio 👨‍💻
+#Portfolio 👨‍💻
 
 Welcome to my GitHub portfolio! Here you'll find projects that showcase my skills and passion for software development, particularly in Android and web development. I'm constantly learning and expanding my expertise, and this repository serves as a snapshot of my journey in computer science.
 
