@@ -37,9 +37,9 @@ The app allows users to **create, manage, and receive notifications** for events
 - ✅ **Databases:** Migrated from **raw SQLite** to **Room Database** for better security and data handling.  
 
 ### 🔹 Links  
-- **📂 Project Repository:** [Event-Tracking App (Capstone)](https://github.com/elopez92/cs499-capstone)  
+- **📂 Project Repository:** [Event-Tracking App (Capstone)](https://github.com/elopez92/event-tracking-app)  
 - **🎥 Code Review Video:** [Watch on YouTube](https://youtu.be/-4NcYo8FIDo)  
-- **📄 Professional Self-Assessment:** [Self-Assessment PDF](https://github.com/elopez92/cs499-capstone/self-assessment.pdf)  
+- **📄 Professional Self-Assessment:** [Self-Assessment PDF](https://github.com/elopez92/elopez92.github.io/blob/main/self-assessment.pdf))
 
 ---
 
