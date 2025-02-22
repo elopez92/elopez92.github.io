@@ -57,12 +57,6 @@ An Android app to help users track **recurring subscriptions** and manage expens
 - **Tech Stack:** Kotlin, Hilt, Jetpack Compose  
 - **Planned Features:** Subscription categorization, analytics, and reminders  
 
-###  [Treasure Hunt AI](https://github.com/elopez92/treasure-hunt-ai)  
-A game where a pirate NPC competes against the player to find treasure in an **8x8 maze** using a **deep Q-learning algorithm**.
-
-- **Tech Stack:** Python, TensorFlow, Jupyter Notebook  
-- **Features:** AI agent training, customizable maze generation  
-
 ---
 
 ##  Schoolwork and Repositories
