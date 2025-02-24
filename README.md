@@ -4,17 +4,17 @@ Welcome to my GitHub portfolio! Here, you'll find projects that highlight my ski
 
 ---
 
-## Education
+## 🎓 Education
 
 - **Southern New Hampshire University**  
   **Bachelor of Science in Computer Science**  
-  **Start Date:** October 24, 2022  
-  **Expected Graduation:** April 1, 2025  
+  **Start Date:** October 24, 2022**  
+  **Expected Graduation:** April 1, 2025**  
   Focused on **Android development, data structures, algorithms, and software engineering**.
 
 ---
 
-## Skills and Technologies
+## 🛠️ Skills and Technologies
 
 - **Languages:** Java, Kotlin, Python, JavaScript, Dart  
 - **Mobile Development:** **Flutter**, Android (Fragments, Activities, XML, Jetpack Compose), **Firebase (Authentication, Firestore, Cloud Messaging)**  
@@ -24,34 +24,39 @@ Welcome to my GitHub portfolio! Here, you'll find projects that highlight my ski
 
 ---
 
-## Capstone Project: Event-Tracking App
+## 🎯 Capstone Project: Event-Tracking App
 
 This project was enhanced to showcase my **skills in software engineering, algorithms, and databases**.
 
-### Original Project
+### 📌 Original Project  
 The app allows users to **create, manage, and receive notifications** for events. Initially, it lacked optimization for handling data efficiently.
 
-### Enhancements  
+### 🔧 Enhancements  
 -  **Software Engineering:** Improved UI with **swipe actions** for editing/deleting events.  
 -  **Algorithms & Data Structures:** Optimized **event sorting and filtering** to prevent unnecessary database reloads.  
 -  **Databases:** Migrated from **raw SQLite** to **Room Database** for better security and data handling.  
 
-### Links  
+### 📂 Capstone Materials  
 - **Project Repository:** [Event-Tracking App (Capstone)](https://github.com/elopez92/event-tracking-app)  
 - **Code Review Video:** [Watch on YouTube](https://youtu.be/-4NcYo8FIDo)  
-- **Professional Self-Assessment:** [Self-Assessment PDF](https://github.com/elopez92/elopez92.github.io/blob/main/self-assessment.pdf))
+- **Professional Self-Assessment:** [Self-Assessment PDF](https://github.com/elopez92/elopez92.github.io/blob/main/self-assessment.pdf)  
+### 📁 Download Original & Enhanced Versions  
+- **Original Event-Tracking App:** [Download](https://github.com/elopez92/elopez92.github.io/blob/main/Original.zip)  
+- **Enhanced Event-Tracking App (Software Design & Engineering):** [Download](https://github.com/elopez92/elopez92.github.io/blob/main/Enhancement_Software%20Design%20and%20Engineering.zip)  
+- **Enhanced Event-Tracking App (Algorithms & Data Structures):** [Download](https://github.com/elopez92/elopez92.github.io/blob/main/Enhancement-%20Algorithms%20and%20Data%20Structur.zip)  
+- **Enhanced Event-Tracking App (Databases):** [Download](https://github.com/elopez92/elopez92.github.io/blob/main/Milestone%20Four-%20Enhancement%20Three-%20Databases.zip)  
 
 ---
 
-##  Featured Projects
+## 📂 Featured Projects
 
-###  Parent Sync  
+### 👶 Parent Sync  
 A **Flutter-based** baby tracking app for parents to log feedings, diaper changes, and medicine, with **real-time data sync between accounts**.
 
 - **Tech Stack:** **Flutter, Dart, Firebase (Firestore, Authentication, Cloud Messaging)**  
 - **Features:** Group-based logging, user authentication, and an intuitive UI  
 
-###  Subscription Finder *(In Progress)*  
+### 💳 Subscription Finder *(In Progress)*  
 An Android app to help users track **recurring subscriptions** and manage expenses.
 
 - **Tech Stack:** Kotlin, Hilt, Jetpack Compose  
@@ -59,7 +64,7 @@ An Android app to help users track **recurring subscriptions** and manage expens
 
 ---
 
-##  Schoolwork and Repositories
+## 📘 Schoolwork and Repositories
 
 Here are some of the key repositories that highlight my academic work:
 
@@ -70,7 +75,7 @@ Here are some of the key repositories that highlight my academic work:
 
 ---
 
-##  What I'm Working On  
+## 🚀 What I'm Working On  
 
 -  **Building a Minecraft-like game** in Java using **LWJGL and JOML** for graphics and physics.  
 -  **Developing the Subscription Finder app** to help users track recurring expenses.  
@@ -78,7 +83,7 @@ Here are some of the key repositories that highlight my academic work:
 
 ---
 
-##  Connect with Me  
+## 📬 Connect with Me  
 
 - ** Email:** [elopez2192@gmail.com](mailto:elopez2192@gmail.com)  
 - ** LinkedIn:** [linkedin.com/in/eduardo-lopez1992](https://www.linkedin.com/in/eduardo-lopez1992/)  
@@ -86,4 +91,4 @@ Here are some of the key repositories that highlight my academic work:
 
 ---
 
-Feel free to explore my repositories and reach out if you’d like to **collaborate** or discuss ideas!   
+💡 *Feel free to explore my repositories and reach out if you’d like to collaborate or discuss ideas!*  
