@@ -1,94 +1,84 @@
-# Portfolio
+# Eduardo Lopez – Developer Portfolio
 
-Welcome to my GitHub portfolio! Here, you'll find projects that highlight my skills in **Android and web development**, along with my experience working with **databases, algorithms, and software engineering**. This portfolio includes my **Capstone Project**, where I enhanced an event-tracking app to showcase my growth in key areas of software development.
+Welcome to my GitHub portfolio! I'm a **mobile developer** with a focus on **Android and Flutter** apps. I love building useful, intuitive experiences and bringing full-stack features to life using **Firebase**, **Node.js**, and clean UI principles.
+
+---
+
+##  Highlights
+
+-  Built 3+ fully featured mobile apps using Android (Jetpack Compose) and Flutter  
+-  Experience with Firebase Auth, Firestore, Cloud Messaging, and local storage (Room, SQLite)  
+-  Strong grasp of algorithms, data structures, and scalable architecture  
+-  Comfortable with Node.js, Express, React Native, and RESTful APIs  
 
 ---
 
 ## Education
 
-- **Southern New Hampshire University**  
-  **Bachelor of Science in Computer Science**  
-  **Start Date:** October 24, 2022**  
-  **Expected Graduation:** April 1, 2025**  
-  Focused on **Android development, data structures, algorithms, and software engineering**.
+**Bachelor of Science in Computer Science**  
+Southern New Hampshire University — *Graduated April 2025*  
+Focus: Android Development, Algorithms, Data Structures, Software Engineering
 
 ---
 
-## Skills and Technologies
-
-- **Languages:** Java, Kotlin, Python, JavaScript, Dart  
-- **Mobile Development:** **Flutter**, Android (Fragments, Activities, XML, Jetpack Compose), **Firebase (Authentication, Firestore, Cloud Messaging)**  
-- **Web Development:** React Native, Express.js, Node.js  
-- **Database Management:** **Firebase Firestore**, SQLite, Room  
-- **Tools and Practices:** Git, Jetpack Compose, Dependency Injection (Hilt), Agile Development  
-
----
-
-## Capstone Project: Event-Tracking App
-
-This project was enhanced to showcase my **skills in software engineering, algorithms, and databases**.
-
-### Original Project  
-The app allows users to **create, manage, and receive notifications** for events. Initially, it lacked optimization for handling data efficiently.
-
-### Enhancements  
--  **Software Engineering:** Improved UI with **swipe actions** for editing/deleting events.  
--  **Algorithms & Data Structures:** Optimized **event sorting and filtering** to prevent unnecessary database reloads.  
--  **Databases:** Migrated from **raw SQLite** to **Room Database** for better security and data handling.  
-
-### Capstone Materials  
-- **Project Repository:** [Event-Tracking App (Capstone)](https://github.com/elopez92/event-tracking-app)  
-- **Code Review Video:** [Watch on YouTube](https://youtu.be/-4NcYo8FIDo)  
-- **Professional Self-Assessment:** [Self-Assessment PDF](https://github.com/elopez92/elopez92.github.io/blob/main/self-assessment.pdf)  
-### Download Original & Enhanced Versions  
-- **Original Event-Tracking App:** [Download](https://github.com/elopez92/elopez92.github.io/blob/main/Original.zip)  
-- **Enhanced Event-Tracking App (Software Design & Engineering):** [Download](https://github.com/elopez92/elopez92.github.io/blob/main/Enhancement_Software%20Design%20and%20Engineering.zip)  
-- **Enhanced Event-Tracking App (Algorithms & Data Structures):** [Download](https://github.com/elopez92/elopez92.github.io/blob/main/Enhancement-%20Algorithms%20and%20Data%20Structur.zip)  
-- **Enhanced Event-Tracking App (Databases):** [Download](https://github.com/elopez92/elopez92.github.io/blob/main/Milestone%20Four-%20Enhancement%20Three-%20Databases.zip)  
-
----
-
-## 📂 Featured Projects
+## Featured Projects
 
 ### Parent Sync  
-A **Flutter-based** baby tracking app for parents to log feedings, diaper changes, and medicine, with **real-time data sync between accounts**.
+A **Flutter-based baby tracking app** for parents to log feedings, diaper changes, and medicine — with **real-time syncing** across devices.
 
-- **Tech Stack:** **Flutter, Dart, Firebase (Firestore, Authentication, Cloud Messaging)**  
-- **Features:** Group-based logging, user authentication, and an intuitive UI  
+- **Stack:** Flutter, Dart, Firebase Auth, Firestore, Cloud Messaging  
+- **Features:** Group-based activity logs, clean UI, push notifications, and multi-user support
+
+[🔗 View on GitHub](https://github.com/elopez92/parent-sync)
+
+---
 
 ### Subscription Finder *(In Progress)*  
-An Android app to help users track **recurring subscriptions** and manage expenses.
+An Android app to help users **track recurring subscriptions** and manage monthly expenses.
 
-- **Tech Stack:** Kotlin, Hilt, Jetpack Compose  
-- **Planned Features:** Subscription categorization, analytics, and reminders  
+- **Stack:** Kotlin, Jetpack Compose, Hilt, Firebase  
+- **Planned Features:** Subscription categorization, billing reminders, expense analytics
 
----
-
-## Schoolwork and Repositories
-
-Here are some of the key repositories that highlight my academic work:
-
-- **[CS250: Software Development Lifecycle](https://github.com/elopez92/CS-250-Software-Development-Lifecycle)** – Explored real-world development practices.  
-- **[CS320: Software Testing](https://github.com/elopez92/CS-320-H7026-Software-Test-Automation-QA)** – Focused on test automation and quality assurance.  
-- **[CS360: Mobile Architecture and Programming](https://github.com/elopez92/CS-360-Mobile-Architect-Programming)** – Built Android apps using fragments, activities, and XML.  
-- **[CS350: Emerging Systems Architectures](https://github.com/elopez92/CS-350-Emerging-Sys-Arch-Tech)** – Researched and implemented modern system architectures.  
+[🔗 View on GitHub](https://github.com/elopez92/subscription-finder)
 
 ---
 
-## What I'm Working On  
+### Event-Tracking App  
+An event planner app enhanced as part of my capstone project. I reworked the backend, UI, and logic to improve performance and maintainability.
 
--  **Building a Minecraft-like game** in Java using **LWJGL and JOML** for graphics and physics.  
--  **Developing the Subscription Finder app** to help users track recurring expenses.  
--  **Expanding expertise in React Native** for cross-platform mobile app development.  
-
----
-
-## 📬 Connect with Me  
-
-- ** Email:** [elopez2192@gmail.com](mailto:elopez2192@gmail.com)  
-- ** LinkedIn:** [linkedin.com/in/eduardo-lopez1992](https://www.linkedin.com/in/eduardo-lopez1992/)  
-- ** GitHub:** [github.com/elopez92](https://github.com/elopez92)  
+-  UI/UX: Swipe-to-edit/delete event cards  
+-  Backend: Migrated from raw SQLite to **Room**  
+-  Logic: Optimized filtering/sorting to reduce database reloads  
+-  [Project Repository](https://github.com/elopez92/event-tracking-app)  
+-  [Code Review Demo](https://youtu.be/-4NcYo8FIDo)
 
 ---
 
-*Feel free to explore my repositories and reach out if you’d like to collaborate or discuss ideas!*  
+## Archived Academic Projects
+
+While I’ve moved on to more production-style apps, here are some past academic repositories that show my earlier work and foundations:
+
+- [CS250: Software Development Lifecycle](https://github.com/elopez92/CS-250-Software-Development-Lifecycle)  
+- [CS320: Software Testing (QA)](https://github.com/elopez92/CS-320-H7026-Software-Test-Automation-QA)  
+- [CS360: Android Dev (Fragments/XML)](https://github.com/elopez92/CS-360-Mobile-Architect-Programming)  
+- [CS350: Emerging Architectures](https://github.com/elopez92/CS-350-Emerging-Sys-Arch-Tech)
+
+---
+
+## What I’m Building Now
+
+- A **Minecraft-style Java game** using LWJGL + JOML for graphics and physics  
+- Continuing development on **Subscription Finder** to include analytics and alerts  
+- Expanding my **React Native** skills for cross-platform mobile development  
+
+---
+
+## Let's Connect
+
+-  [elopez2192@gmail.com](mailto:elopez2192@gmail.com)  
+-  [LinkedIn](https://www.linkedin.com/in/eduardo-lopez1992)  
+-  [GitHub](https://github.com/elopez92)
+
+---
+
+*Thanks for checking out my work — feel free to explore my repos or reach out if you’d like to collaborate!*
